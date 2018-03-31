@@ -2,3 +2,7 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\OneDrive]
 "DisableFileSyncNGSC"=dword:00000001
+
+
+
+Use "reg import disableonedrive.reg" in MDT application.
