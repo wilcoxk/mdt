@@ -1,0 +1,1 @@
+"%SYSTEMROOT%\SysWOW64\OneDriveSetup.exe" /uninstall
